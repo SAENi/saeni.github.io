@@ -7,20 +7,18 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            SAENi7 Video Archive
+tagline:          'I made this because shit happens.'
+description:      'I made this because shit happens. This is my <a href="https://www.youtube.com/channel/UCrJU4svIgCbX-AVc-JaKz4A" target="_blank">YouTube</a>, and this is my <a href="https://twitter.com/SAENiJP" target="_blank">Twitter.</a>.'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'SAENi7'
+  url:            https://twitter.com/SAENiJP
 
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          Archive Ver.1
 
-github:
-  repo:           https://github.com/poole/hyde
