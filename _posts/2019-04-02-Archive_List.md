@@ -3,8 +3,8 @@ layout: post
 title: Archive List
 ---
 
-## [Fureraba](Google.com)
+## [Fureraba](http://google.com)
 > Contains my whole playthrough of Fureraba (1 to 38)
 
-## [Hello,Good-bye](Google.com)
+## [Hello,Good-bye](http://google.com)
 > Contains my whole playthrough of Fureraba (1 to 38)
