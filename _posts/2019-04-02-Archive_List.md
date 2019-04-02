@@ -7,4 +7,4 @@ title: Archive List
 > Contains my whole playthrough of Fureraba (1 to 38)
 
 ## [Hello,Good-bye](http://google.com)
-> Contains my whole playthrough of Fureraba (1 to 38)
+> Contains my whole playthrough of Hello,Good-Bye (1 to 8)
