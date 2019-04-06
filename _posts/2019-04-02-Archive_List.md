@@ -8,7 +8,7 @@ title: Archive List
 
 > Requires key found the sidebar
 
-## [Hello,Good-bye](https://mega.nz/#F!N8IBHa5L)
+## [Hello,Good-bye](https://safelinking.net/HgyC1cy)
 > Contains my whole playthrough of Hello,Good-Bye (1 to 8)
 
 > Requires key found the sidebar
