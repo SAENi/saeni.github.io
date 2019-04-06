@@ -12,3 +12,5 @@ title: Archive List
 > Contains my whole playthrough of Hello,Good-Bye (1 to 8)
 
 > Requires key found the sidebar
+
+Still gathering videos from my channel to upload to the archive!
